@@ -38,6 +38,11 @@ var my_bookmarks_favorite_list = [{
   title: "少数派",
   href: "http://sspai.com",
   note: "基于专业创作社群的数字消费指南平台",
+},{
+  icon: "知",
+  title: "知乎",
+  href: "https://www.zhihu.com/",
+  note: "知乎，发现更大的世界",
 }]
 
 
