@@ -44,4 +44,18 @@ $(document).ready(function() {
     page_list_view(page_list);
   })
 
+  // 每日一句
+  $.ajax({
+      url: 'http://open.iciba.com/dsapi/',
+      type: 'GET',
+      crossDomain: true,
+      dataType: 'jsonp',
+      success: function(data){
+        $(".navbar-brand").text(data.content)
+        $(".navbar-brand").click(function(e){
+          $(this).text(data.note)
+        });
+      }
+  });
+
 });
