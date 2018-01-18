@@ -25,9 +25,9 @@ var my_bookmarks_favorite_list = [{
   note: "生活怎能没有电影？",
 },{
   icon: "movie",
-  title: "LOL电影天堂",
+  title: "电影天堂",
   href: "http://www.loldytt.com",
-  note: "资源丰富",
+  note: "资源丰富，下载方式多",
 },{
   icon: "web",
   title: "Iplaysoft",
