@@ -74,8 +74,14 @@ var my_bookmarks_api_list = [{
   icon: "L",
   title: "Linux",
   href: "http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html",
-  note: " Linux Tools Quick Tutorial",
+  note: "Linux Tools Quick Tutorial",
   category: "version Latest"
+},{
+  icon: "P",
+  title: "Pandas",
+  href: "http://usyiyi.cn/translate/Pandas_0j2/index.html",
+  note: "强大的Python数据分析工具包",
+  category: "0.19.2"
 }]
 
 var my_bookmarks = [{
