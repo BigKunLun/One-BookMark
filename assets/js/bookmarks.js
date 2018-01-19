@@ -82,6 +82,12 @@ var my_bookmarks_api_list = [{
   href: "http://usyiyi.cn/translate/Pandas_0j2/index.html",
   note: "强大的Python数据分析工具包",
   category: "0.19.2"
+},{
+  icon: "S",
+  title: "Scrapy",
+  href: "https://docs.scrapy.org/en/latest/index.html",
+  note: "Python爬虫框架",
+  category: "1.5"
 }]
 
 var my_bookmarks = [{
