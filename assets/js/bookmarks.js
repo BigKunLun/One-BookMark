@@ -90,6 +90,33 @@ var my_bookmarks_api_list = [{
   category: "1.5"
 }]
 
+var my_bookmarks_vps_list = [{
+  icon: "V",
+  title: "Vultr",
+  href: "https://my.vultr.com",
+  note: "VPS便宜又好用，当然主要是便宜",
+},{
+  icon: "A",
+  title: "阿里云",
+  href: "https://ecs.console.aliyun.com/#/home",
+  note: "控制台很成熟，花样特别多",
+},{
+  icon: "F",
+  title: "FreeNom",
+  href: "https://my.freenom.com",
+  note: "免费域名",
+},{
+  icon: "N",
+  title: "Namecheap",
+  href: "https://ap.www.namecheap.com",
+  note: "域名大全",
+},{
+  icon: "D",
+  title: "Dnspod",
+  href: "https://www.dnspod.cn/console/dashboard",
+  note: "免费DNS",
+}]
+
 var my_bookmarks = [{
   page_name: "Favorite",
   page_ico: "favorite",
@@ -98,6 +125,10 @@ var my_bookmarks = [{
   page_name: "API",
   page_ico: "dashboard",
   page_list: my_bookmarks_api_list
+},{
+  page_name: "VPS",
+  page_ico: "cloud",
+  page_list: my_bookmarks_vps_list
 }]
 
 _.each(my_bookmarks, function(page){
