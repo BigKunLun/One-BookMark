@@ -132,7 +132,7 @@ var my_bookmarks = [{
 }]
 
 _.each(my_bookmarks, function(page){
-  if(page.page_name == "Favorite"){
+  if(page.page_name != "API"){
     _.map(page.page_list, function(bm,i){
       bm.category = i
     })
