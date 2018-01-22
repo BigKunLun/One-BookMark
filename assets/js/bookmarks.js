@@ -88,6 +88,12 @@ var my_bookmarks_api_list = [{
   href: "https://docs.scrapy.org/en/latest/index.html",
   note: "Python爬虫框架",
   category: "1.5"
+},{
+  icon: "D",
+  title: "Docker",
+  href: "https://docs.docker-cn.com/",
+  note: "http://www.runoob.com/docker/docker-install-python.html",
+  category: "17"
 }]
 
 var my_bookmarks_vps_list = [{
