@@ -91,8 +91,8 @@ var my_bookmarks_api_list = [{
 },{
   icon: "D",
   title: "Docker",
-  href: "https://docs.docker-cn.com/",
-  note: "http://www.runoob.com/docker/docker-install-python.html",
+  href: "http://www.runoob.com/docker/docker-install-python.html",
+  note: "Docker大法好，干净还随便走",
   category: "17"
 }]
 
