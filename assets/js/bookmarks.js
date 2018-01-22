@@ -81,19 +81,19 @@ var my_bookmarks_api_list = [{
   title: "Pandas",
   href: "http://usyiyi.cn/translate/Pandas_0j2/index.html",
   note: "强大的Python数据分析工具包",
-  category: "0.19.2"
+  category: "version 0.19.2"
 },{
   icon: "S",
   title: "Scrapy",
   href: "https://docs.scrapy.org/en/latest/index.html",
   note: "Python爬虫框架",
-  category: "1.5"
+  category: "version 1.5"
 },{
   icon: "D",
   title: "Docker",
   href: "http://www.runoob.com/docker/docker-install-python.html",
-  note: "Docker大法好，干净还随便走",
-  category: "17"
+  note: "Docker大法好，干净随便走",
+  category: "version 17"
 }]
 
 var my_bookmarks_vps_list = [{
