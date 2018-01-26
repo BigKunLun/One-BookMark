@@ -121,6 +121,11 @@ var my_bookmarks_vps_list = [{
   title: "Dnspod",
   href: "https://www.dnspod.cn/console/dashboard",
   note: "免费DNS",
+},{
+  icon: "七",
+  title: "七牛云",
+  href: "https://www.qiniu.com",
+  note: "企业级云服务器商",
 }]
 
 var my_bookmarks = [{
