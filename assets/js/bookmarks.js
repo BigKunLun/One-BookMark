@@ -1,9 +1,4 @@
 var my_bookmarks_favorite_list = [{
-  icon: "search",
-  title: "Google",
-  href: "https://google.com",
-  note: "Google一下，全都知道",
-},{
   icon: "G",
   title: "Github",
   href: "https://github.com/BigKunLun",
@@ -44,10 +39,10 @@ var my_bookmarks_favorite_list = [{
   href: "http://sspai.com",
   note: "基于专业创作社群的数字消费指南平台",
 },{
-  icon: "知",
-  title: "知乎",
-  href: "https://www.zhihu.com/",
-  note: "知乎，发现更大的世界",
+  icon: "T",
+  title: "Trello",
+  href: "https://trello.com",
+  note: "任务管理器",
 }]
 
 
