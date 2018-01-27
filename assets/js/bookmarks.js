@@ -29,6 +29,11 @@ var my_bookmarks_favorite_list = [{
   href: "http://www.loldytt.com",
   note: "资源丰富，下载方式多",
 },{
+  icon: "cloud",
+  title: "百度网盘",
+  href: "https://pan.baidu.com/disk/home",
+  note: "该用还是要用",
+},{
   icon: "web",
   title: "Iplaysoft",
   href: "http://www.iplaysoft.com/",
