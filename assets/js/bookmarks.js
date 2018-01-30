@@ -14,6 +14,11 @@ var my_bookmarks_favorite_list = [{
   href: "http://localhost:8888",
   note: "JUPYTER NOTEBOOK",
 },{
+  icon: "N",
+  title: "NAS",
+  href: "edmond1210.quickconnect.to",
+  note: "群晖，家庭数据中心",
+},{
   icon: "movie",
   title: "66电影港",
   href: "http://www.dygang.net/",
