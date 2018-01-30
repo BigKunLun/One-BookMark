@@ -16,7 +16,7 @@ var my_bookmarks_favorite_list = [{
 },{
   icon: "N",
   title: "NAS",
-  href: "edmond1210.quickconnect.to",
+  href: "https://edmond1210.quickconnect.to",
   note: "群晖，家庭数据中心",
 },{
   icon: "movie",
