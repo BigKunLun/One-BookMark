@@ -19,16 +19,6 @@ var my_bookmarks_favorite_list = [{
   href: "https://edmond1210.quickconnect.to",
   note: "群晖，家庭数据中心",
 },{
-  icon: "movie",
-  title: "66电影港",
-  href: "http://www.dygang.net/",
-  note: "生活怎能没有电影？",
-},{
-  icon: "movie",
-  title: "电影天堂",
-  href: "http://www.loldytt.com",
-  note: "资源丰富，下载方式多",
-},{
   icon: "cloud",
   title: "百度网盘",
   href: "https://pan.baidu.com/disk/home",
@@ -50,6 +40,37 @@ var my_bookmarks_favorite_list = [{
   note: "任务管理器",
 }]
 
+var my_bookmarks_resource_list = [{
+  icon: "movie",
+  title: "66电影港",
+  href: "http://www.dygang.net/",
+  note: "生活怎能没有电影？",
+},{
+  icon: "movie",
+  title: "电影天堂",
+  href: "http://www.loldytt.com",
+  note: "资源丰富，下载方式多",
+},{
+  icon: "X",
+  title: "Xclient",
+  href: "http://xclient.info",
+  note: "Mac app",
+},{
+  icon: "book",
+  title: "书伴",
+  href: "https://bookfere.com/",
+  note: "为静心阅读而生",
+},{
+  icon: "book",
+  title: "鸠摩搜书",
+  href: "https://www.jiumodiary.com/",
+  note: "电子书搜索引擎",
+},{
+  icon: "P",
+  title: "Processon",
+  href: "https://www.processon.com",
+  note: "在线绘图",
+}]
 
 var my_bookmarks_api_list = [{
   icon: "X",
@@ -137,6 +158,10 @@ var my_bookmarks = [{
   page_name: "Favorite",
   page_ico: "favorite",
   page_list: my_bookmarks_favorite_list
+},{
+  page_name: "Resource",
+  page_ico: "grade",
+  page_list: my_bookmarks_resource_list
 },{
   page_name: "API",
   page_ico: "dashboard",
