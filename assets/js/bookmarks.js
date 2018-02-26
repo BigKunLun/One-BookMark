@@ -66,6 +66,11 @@ var my_bookmarks_resource_list = [{
   href: "https://www.jiumodiary.com/",
   note: "电子书搜索引擎",
 },{
+  icon: "V",
+  title: "vol",
+  href: "http://vol.moe/",
+  note: "Kindle 漫画",
+},{
   icon: "P",
   title: "Processon",
   href: "https://www.processon.com",
