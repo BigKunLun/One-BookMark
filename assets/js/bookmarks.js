@@ -169,6 +169,18 @@ var my_bookmarks_vps_list = [{
   note: "企业级云服务器商",
 }]
 
+var my_bookmarks_money_list = [{
+  icon: "O",
+  title: "OTCBTC",
+  href: "https://otcbtc.com/sell_offers?currency=eth&fiat_currency=cny&payment_type=all",
+  note: "数字货币，法币交易所",
+},{
+  icon: "非",
+  title: "非小号",
+  href: "https://www.feixiaohao.com/",
+  note: "专注数字货币行业大数据分析",
+}]
+
 var my_bookmarks = [{
   page_name: "Favorite",
   page_ico: "favorite",
@@ -177,6 +189,10 @@ var my_bookmarks = [{
   page_name: "Resource",
   page_ico: "grade",
   page_list: my_bookmarks_resource_list
+},{
+  page_name: "Money",
+  page_ico: "all inclusive",
+  page_list: my_bookmarks_money_list
 },{
   page_name: "API",
   page_ico: "dashboard",
