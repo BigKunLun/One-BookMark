@@ -75,6 +75,16 @@ var my_bookmarks_resource_list = [{
   title: "Processon",
   href: "https://www.processon.com",
   note: "在线绘图",
+},{
+  icon: "mood",
+  title: "PS4",
+  href: "https://store.playstation.com/zh-hans-hk/home/games",
+  note: "PS4游戏库",
+},{
+  icon: "A",
+  title: "Amazon",
+  href: "https://www.amazon.cn/mn/dcw/myx.html",
+  note: "Amazon Kindle",
 }]
 
 var my_bookmarks_api_list = [{
