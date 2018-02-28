@@ -191,7 +191,7 @@ var my_bookmarks = [{
   page_list: my_bookmarks_resource_list
 },{
   page_name: "Money",
-  page_ico: "all inclusive",
+  page_ico: "$",
   page_list: my_bookmarks_money_list
 },{
   page_name: "API",
