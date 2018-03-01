@@ -9,6 +9,11 @@ var my_bookmarks_favorite_list = [{
   href: "https://kaggle.com",
   note: "数据建模和数据分析竞赛平台",
 },{
+  icon: "M",
+  title: "ML",
+  href: "https://developers.google.com/machine-learning/crash-course",
+  note: "Google机器学习教程",
+},{
   icon: "J",
   title: "Jupyter",
   href: "http://localhost:8888",
