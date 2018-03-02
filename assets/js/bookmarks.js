@@ -72,7 +72,7 @@ var my_bookmarks_resource_list = [{
   note: "电子书搜索引擎",
 },{
   icon: "V",
-  title: "vol",
+  title: "Vol",
   href: "http://vol.moe/",
   note: "Kindle 漫画",
 },{
