@@ -153,6 +153,11 @@ var my_bookmarks_vps_list = [{
   href: "https://ecs.console.aliyun.com/#/home",
   note: "控制台很成熟，花样特别多",
 },{
+  icon: "T",
+  title: "腾讯云",
+  href: "https://cloud.tencent.com",
+  note: "便宜",
+},{
   icon: "F",
   title: "FreeNom",
   href: "https://my.freenom.com",
