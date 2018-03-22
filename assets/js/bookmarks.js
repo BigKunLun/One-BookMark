@@ -43,6 +43,11 @@ var my_bookmarks_favorite_list = [{
   title: "Trello",
   href: "https://trello.com",
   note: "任务管理器",
+},{
+  icon: "I",
+  title: "IFTTT",
+  href: "https://ifttt.com/discover",
+  note: "让一切自动化！",
 }]
 
 var my_bookmarks_resource_list = [{
