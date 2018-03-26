@@ -19,6 +19,11 @@ var my_bookmarks_favorite_list = [{
   href: "http://localhost:8888",
   note: "JUPYTER NOTEBOOK",
 },{
+  icon: "H",
+  title: "Huginn",
+  href: "http://118.25.45.148:8080",
+  note: "Huginn 自动化助手",
+},{
   icon: "N",
   title: "NAS",
   href: "https://edmond1210.quickconnect.to",
