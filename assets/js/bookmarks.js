@@ -24,16 +24,6 @@ var my_bookmarks_favorite_list = [{
   href: "http://118.25.45.148:8080",
   note: "Huginn 自动化助手",
 },{
-  icon: "N",
-  title: "NAS",
-  href: "https://edmond1210.quickconnect.to",
-  note: "群晖，家庭数据中心",
-},{
-  icon: "cloud",
-  title: "百度网盘",
-  href: "https://pan.baidu.com/disk/home",
-  note: "该用还是要用",
-},{
   icon: "web",
   title: "Iplaysoft",
   href: "http://www.iplaysoft.com/",
@@ -201,6 +191,33 @@ var my_bookmarks_money_list = [{
   note: "专注数字货币行业大数据分析",
 }]
 
+var my_bookmarks_data_list = [{
+  icon: "N",
+  title: "NAS",
+  href: "https://edmond1210.quickconnect.to",
+  note: "群晖，家庭数据中心",
+},{
+  icon: "cloud",
+  title: "Google Drive",
+  href: "https://drive.google.com/drive/my-drive",
+  note: "核心资料存储",
+},{
+  icon: "T",
+  title: "腾讯微云",
+  href: "https://www.weiyun.com/disk",
+  note: "辅助文档存储",
+},{
+  icon: "B",
+  title: "百度网盘",
+  href: "https://pan.baidu.com/disk/home",
+  note: "该用还是要用",
+},{
+  icon: "D",
+  title: "腾讯文档",
+  href: "https://docs.qq.com",
+  note: "辅助文档存储",
+}]
+
 var my_bookmarks = [{
   page_name: "Favorite",
   page_ico: "favorite",
@@ -209,6 +226,10 @@ var my_bookmarks = [{
   page_name: "Resource",
   page_ico: "grade",
   page_list: my_bookmarks_resource_list
+},{
+  page_name: "Data",
+  page_ico: "cloud upload",
+  page_list: my_bookmarks_data_list
 },{
   page_name: "Money",
   page_ico: "$",
