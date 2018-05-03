@@ -43,6 +43,16 @@ var my_bookmarks_favorite_list = [{
   title: "IFTTT",
   href: "https://ifttt.com/discover",
   note: "让一切自动化！",
+},{
+  icon: "O",
+  title: "OTCBTC",
+  href: "https://otcbtc.com/sell_offers?currency=eth&fiat_currency=cny&payment_type=all",
+  note: "数字货币，法币交易所",
+},{
+  icon: "非",
+  title: "非小号",
+  href: "https://www.feixiaohao.com/",
+  note: "专注数字货币行业大数据分析",
 }]
 
 var my_bookmarks_resource_list = [{
@@ -184,19 +194,7 @@ var my_bookmarks_vps_list = [{
   note: "企业级云服务器商",
 }]
 
-var my_bookmarks_money_list = [{
-  icon: "O",
-  title: "OTCBTC",
-  href: "https://otcbtc.com/sell_offers?currency=eth&fiat_currency=cny&payment_type=all",
-  note: "数字货币，法币交易所",
-},{
-  icon: "非",
-  title: "非小号",
-  href: "https://www.feixiaohao.com/",
-  note: "专注数字货币行业大数据分析",
-}]
-
-var my_bookmarks_data_list = [{
+var my_bookmarks_ds_list = [{
   icon: "N",
   title: "NAS",
   href: "https://edmond1210.quickconnect.to",
@@ -232,13 +230,9 @@ var my_bookmarks = [{
   page_ico: "grade",
   page_list: my_bookmarks_resource_list
 },{
-  page_name: "Data",
+  page_name: "DS",
   page_ico: "cloud upload",
-  page_list: my_bookmarks_data_list
-},{
-  page_name: "Money",
-  page_ico: "$",
-  page_list: my_bookmarks_money_list
+  page_list: my_bookmarks_ds_list
 },{
   page_name: "API",
   page_ico: "dashboard",
