@@ -81,6 +81,11 @@ var my_bookmarks_resource_list = [{
   href: "https://www.processon.com",
   note: "在线绘图",
 },{
+  icon: "N",
+  title: "News",
+  href: "http://newsalert.baidu.com",
+  note: "百度新闻邮件订阅",
+},{
   icon: "mood",
   title: "PS4",
   href: "https://store.playstation.com/zh-hans-hk/home/games",
