@@ -200,10 +200,15 @@ var my_bookmarks_ds_list = [{
   href: "https://edmond1210.quickconnect.to",
   note: "群晖，家庭数据中心",
 },{
+  icon: "J",
+  title: "坚果云",
+  href: "https://www.jianguoyun.com",
+  note: "替代GoogleDrive",
+},{
   icon: "cloud",
   title: "Google Drive",
   href: "https://drive.google.com/drive/my-drive",
-  note: "核心资料存储",
+  note: "核心存储",
 },{
   icon: "T",
   title: "腾讯微云",
