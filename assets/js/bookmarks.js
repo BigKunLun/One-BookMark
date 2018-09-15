@@ -24,6 +24,11 @@ var my_bookmarks_favorite_list = [{
   href: "http://118.25.45.148:8080",
   note: "Huginn 自动化助手",
 },{
+  icon: "R",
+  title: "RSSHub",
+  href: "http://118.25.45.148:1200",
+  note: "万物皆可RSS",
+},{
   icon: "web",
   title: "Iplaysoft",
   href: "http://www.iplaysoft.com/",
