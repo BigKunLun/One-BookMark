@@ -67,9 +67,9 @@ var my_bookmarks_resource_list = [{
   note: "生活怎能没有电影？",
 },{
   icon: "movie",
-  title: "电影天堂",
-  href: "http://www.loldytt.com",
-  note: "资源丰富，下载方式多",
+  title: "BT电影天堂",
+  href: "http://www.btbtdy.me/",
+  note: "资源丰富",
 },{
   icon: "X",
   title: "Xclient",
